@@ -70,15 +70,15 @@ const technologies = [
 		icon: "/tech/redux.webp",
 	},
 	{
-		name: "git",
+		name: "Git",
 		icon: "/tech/git.webp",
 	},
 	{
-		name: "figma",
+		name: "Figma",
 		icon: "/tech/figma.webp",
 	},
 	{
-		name: "bootstrap",
+		name: "Bootstrap",
 		icon: "/tech/bootstrap.webp",
 	},
 	{
@@ -115,7 +115,7 @@ const experiences = [
 	},
 	{
 		title: "Full Stack Developer",
-		company_name: "Caogemini Technology Services",
+		company_name: "Capgemini Technology Services",
 		iconBg: "#E6DEDD",
 		date: "2021 - 2022",
 		points: [
