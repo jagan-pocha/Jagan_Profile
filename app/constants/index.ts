@@ -96,7 +96,7 @@ const experiences = [
 		title: "Full Stack Developer",
 		company_name: "InternOptima",
 		iconBg: "#E6DEDD",
-		date: "2024 - 2024",
+		date: "Apr 2024 - Dec 2024",
 		points: [
 			"Implemented end-to-end authentication and authorization session token logic, leveraging Redis for efficient session storage.",
 			"Integrated Stripe payment gateway into the application, ensuring seamless interaction between the UI and backend.",
@@ -106,7 +106,7 @@ const experiences = [
 		title: "Master of Science",
 		company_name: "University Of Colorado Denver",
 		iconBg: "#E6DEDD",
-		date: "2023 - 2024",
+		date: "Jan 2023 - Dec 2024",
 		points: [
 			"Explored advanced topics in Artificial Intelligence, integrating software engineering expertise with AI, machine learning, and natural language processing.",
 			"Developed an in-depth understanding of code optimization techniques and best practices for scalable and efficient software solutions.",
@@ -117,7 +117,7 @@ const experiences = [
 		title: "Full Stack Developer",
 		company_name: "Capgemini Technology Services",
 		iconBg: "#E6DEDD",
-		date: "2021 - 2022",
+		date: "Jul 2020 - Dec 2022",
 		points: [
 			"Developed and validated 80+ endpoints adhering to SOLID principles, ensuring seamless backend-frontend integration.",
 			"Conducted rigorous testing using JUnit and Postman, reducing integration-related support tickets by 40%.",
@@ -131,7 +131,7 @@ const experiences = [
 		title: "Android Developer",
 		company_name: "NowApps Technologies",
 		iconBg: "#E6DEDD",
-		date: "2019 - 2019",
+		date: "Jan 2019 - Aug 2019",
 		points: [
 			"Android Studio Expertise: Conducted a comprehensive analysis of the Android Studio IDE and Gradle build system, mastering tools for efficient application development and deployment.",
 			"Native Application Development: Designed and developed native Android applications using Java, showcasing hands-on experience in building robust and scalable mobile solutions."
@@ -141,7 +141,7 @@ const experiences = [
 		title: "Bachelor's in computer science",
 		company_name: "Preseidency University",
 		iconBg: "#383E56",
-		date: "2017 -  2021",
+		date: "Aug 2017 -  Jun 2021",
 		points: [
 			"Hackathon Runner-Up: Secured the runner-up position in the prestigious Presi Hackathon among 90 groups, showcasing problem-solving and coding excellence.",
 			"Strong Algorithmic Foundation: Developed a solid understanding of data structures and algorithms, enabling efficient problem-solving and optimized software solutions.",
