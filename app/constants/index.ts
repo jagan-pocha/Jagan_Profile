@@ -96,7 +96,7 @@ const experiences = [
 		title: "Full Stack Developer",
 		company_name: "InternOptima",
 		iconBg: "#E6DEDD",
-		date: "Apr 2024 - Dec 2024",
+		date: "Sep 2024 - Dec 2024",
 		points: [
 			"Implemented end-to-end authentication and authorization session token logic, leveraging Redis for efficient session storage.",
 			"Integrated Stripe payment gateway into the application, ensuring seamless interaction between the UI and backend.",
@@ -117,7 +117,7 @@ const experiences = [
 		title: "Full Stack Developer",
 		company_name: "Capgemini Technology Services",
 		iconBg: "#E6DEDD",
-		date: "Jul 2020 - Dec 2022",
+		date: "Jan 2021 - Dec 2022",
 		points: [
 			"Developed and validated 80+ endpoints adhering to SOLID principles, ensuring seamless backend-frontend integration.",
 			"Conducted rigorous testing using JUnit and Postman, reducing integration-related support tickets by 40%.",
@@ -131,7 +131,7 @@ const experiences = [
 		title: "Android Developer",
 		company_name: "NowApps Technologies",
 		iconBg: "#E6DEDD",
-		date: "Jan 2019 - Aug 2019",
+		date: "May 2019 - Aug 2019",
 		points: [
 			"Android Studio Expertise: Conducted a comprehensive analysis of the Android Studio IDE and Gradle build system, mastering tools for efficient application development and deployment.",
 			"Native Application Development: Designed and developed native Android applications using Java, showcasing hands-on experience in building robust and scalable mobile solutions."
