@@ -93,6 +93,18 @@ const technologies = [
 
 const experiences = [
 	{
+		title: "Java Developer",
+		company_name: "Charter Communications",
+		iconBg: "#E6DEDD",
+		date: "Feb 2025 - Present",
+		points: [
+			"Developed a Swagger service in a Monolithic repository for microservices using OpenAPI Codegen, enabling streamlined API documentation and client generation.",
+			"Configured a secure Kafka consumer with Kerberos authentication and Trust store properties to process and store real-time messages from Kafka topics into a Postgres database.",
+			"Deployed Kafka consumer services on Kubernetes Pods and monitored application health and performance using kubectl.",
+			"Executed cut-and-release deployment scripts to automate and manage service deployments efficiently."
+		],
+	},
+	{
 		title: "Full Stack Developer",
 		company_name: "InternOptima",
 		iconBg: "#E6DEDD",
