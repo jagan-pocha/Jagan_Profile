@@ -98,10 +98,11 @@ const experiences = [
 		iconBg: "#E6DEDD",
 		date: "Feb 2025 - Present",
 		points: [
-			"Developed a Swagger service in a Monolithic repository for microservices using OpenAPI Codegen, enabling streamlined API documentation and client generation.",
-			"Configured a secure Kafka consumer with Kerberos authentication and Trust store properties to process and store real-time messages from Kafka topics into a Postgres database.",
-			"Deployed Kafka consumer services on Kubernetes Pods and monitored application health and performance using kubectl.",
-			"Executed cut-and-release deployment scripts to automate and manage service deployments efficiently."
+			"Developed and maintained API documentation for 10+ microservices in a monolithic repository using Swagger OpenAPI Codegen, enabling automated client generation and standardized API models.",
+			"Configured  a  secure  Kafka  connection  with  Kerberos  authentication  and  Trust  store  properties,  implemented  parallel processing logic to handle 40K+ records from Kafka topics with zero data integrity issues, storing results in Postgres.",
+			"Created a monitoring dashboard with 10+ interactive graphs in Datadog and Splunk to track Kubernetes pod health, resource utilization, and application performance.",
+			"Independently  developed  a  GraphQL  middleware  service,  optimizing  communication  between  backend  and  frontend  by delivering only the requested data to clients, improving response efficiency.",
+			"Built an internal tool called J Valido, a web application that validates JSON payloads, identifying missing fields, additional fields, and data type mismatches, streamlining developer debugging and productivity."
 		],
 	},
 	{
